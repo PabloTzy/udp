@@ -230,7 +230,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributor/PabloTzy/udp.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/PabloTzy/udp.svg?style=for-the-badge
 [contributors-url]: https://github.com/PabloTzy/udp/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/PabloTzy/udp.svg?style=for-the-badge
 [forks-url]: https://github.com/PabloTzy/udp/network/members
